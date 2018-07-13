@@ -1,0 +1,9 @@
+spring:
+  thymeleaf:
+    encoding: UTF-8
+    cache: false
+    mode: LEGACYHTML5
+    # 前缀 后缀
+    prefix: classpath:/templates/
+    suffix: .html
+    
